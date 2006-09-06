@@ -1,4 +1,5 @@
 Summary:	Base directory for LDP documents
+Summary(pl):	G³ówny katalog dla dokumentacji LDP
 Name:		LDP-base
 Version:	1
 Release:	1
@@ -10,6 +11,10 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 This package contains base directory for LDP (Linux Documentation
 Project) documents.
+
+%description -l pl
+Ten pakiet zawiera g³ówny katalog dla dokumentów z projektu LDP
+(Linux Documentation Project).
 
 %prep
 
