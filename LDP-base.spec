@@ -1,5 +1,5 @@
 Summary:	Base directory for LDP documents
-Summary(pl.UTF-8):   Główny katalog dla dokumentacji LDP
+Summary(pl.UTF-8):	Główny katalog dla dokumentacji LDP
 Name:		LDP-base
 Version:	1
 Release:	1
