@@ -2,7 +2,7 @@ Summary:	Base directory for LDP documents
 Summary(pl.UTF-8):	Główny katalog dla dokumentacji LDP
 Name:		LDP-base
 Version:	1
-Release:	1
+Release:	2
 License:	GPL
 Group:		Base
 BuildArch:	noarch
